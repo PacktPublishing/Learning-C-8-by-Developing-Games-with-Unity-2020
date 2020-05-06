@@ -13,6 +13,9 @@ public class LearningCurve : MonoBehaviour
         ComputeAge();
     }
 
+    /// <summary>
+    /// Computes a modified age integer
+    /// </summary>
     void ComputeAge()
     {
         Debug.Log(currentAge + addedAge);
@@ -24,6 +27,7 @@ public class LearningCurve : MonoBehaviour
         
     }
 }
+
 
 
 
