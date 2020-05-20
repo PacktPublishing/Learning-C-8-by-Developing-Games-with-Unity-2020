@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 435156929}
   - component: {fileID: 435156928}
   - component: {fileID: 435156927}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 549844420}
   - component: {fileID: 549844419}
   - component: {fileID: 549844418}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ramp_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -325,7 +325,7 @@ GameObject:
   - component: {fileID: 679001213}
   - component: {fileID: 679001212}
   - component: {fileID: 679001211}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wall_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -494,7 +494,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0.25, y: 3.39, z: -0.44}
+  m_LocalPosition: {x: -73.5, y: 35.28, z: -8.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -512,7 +512,7 @@ GameObject:
   - component: {fileID: 929958338}
   - component: {fileID: 929958337}
   - component: {fileID: 929958336}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Center
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -604,7 +604,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 947044728}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Environment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -764,9 +764,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 947044728}
     m_Modifications:
+    - target: {fileID: 7683814496825667976, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343886489352, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343967188705, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 9096450343968814744, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
       propertyPath: m_Name
       value: Barrier_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343968814744, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 9096450343968814751, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
       propertyPath: m_LocalPosition.x
@@ -812,6 +828,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9096450344879979903, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450345455888130, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
 --- !u!4 &1074227544 stripped
@@ -831,7 +855,7 @@ GameObject:
   - component: {fileID: 1137570247}
   - component: {fileID: 1137570246}
   - component: {fileID: 1137570245}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ramp_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -924,7 +948,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1233591740}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Raised_Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -957,9 +981,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 947044728}
     m_Modifications:
+    - target: {fileID: 7683814496825667976, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343886489352, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343967188705, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 9096450343968814744, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
       propertyPath: m_Name
       value: Barrier_04
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343968814744, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 9096450343968814751, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1005,6 +1045,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9096450344879979903, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450345455888130, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
 --- !u!4 &1281515488 stripped
@@ -1024,7 +1072,7 @@ GameObject:
   - component: {fileID: 1445265694}
   - component: {fileID: 1445265693}
   - component: {fileID: 1445265692}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wall_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1119,7 +1167,7 @@ GameObject:
   - component: {fileID: 1616387220}
   - component: {fileID: 1616387219}
   - component: {fileID: 1616387218}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wall_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1214,7 +1262,7 @@ GameObject:
   - component: {fileID: 1640672766}
   - component: {fileID: 1640672765}
   - component: {fileID: 1640672764}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ramp_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1315,7 +1363,7 @@ GameObject:
   - component: {fileID: 1869477721}
   - component: {fileID: 1869477720}
   - component: {fileID: 1869477719}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ramp_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1406,9 +1454,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 947044728}
     m_Modifications:
+    - target: {fileID: 7683814496825667976, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343886489352, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343967188705, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 9096450343968814744, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
       propertyPath: m_Name
       value: Barrier_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343968814744, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 9096450343968814751, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1454,6 +1518,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9096450344879979903, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450345455888130, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
 --- !u!4 &1880103632 stripped
@@ -1473,7 +1545,7 @@ GameObject:
   - component: {fileID: 1997265232}
   - component: {fileID: 1997265231}
   - component: {fileID: 1997265230}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wall_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1567,6 +1639,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 908817385061856121, guid: 4ea5e876024d84b9e8fc61bc951c62a0, type: 3}
+      propertyPath: groundLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    - target: {fileID: 908817385061856121, guid: 4ea5e876024d84b9e8fc61bc951c62a0, type: 3}
+      propertyPath: bullet
+      value: 
+      objectReference: {fileID: 4106928932029447456, guid: cc37acf2756884399a7a0fbd6cc76c6e, type: 3}
     - target: {fileID: 908817385061856127, guid: 4ea5e876024d84b9e8fc61bc951c62a0, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.94
@@ -1734,9 +1814,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 947044728}
     m_Modifications:
+    - target: {fileID: 7683814496825667976, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343886489352, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343967188705, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 9096450343968814744, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
       propertyPath: m_Name
       value: Barrier_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450343968814744, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 9096450343968814751, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1781,6 +1877,14 @@ PrefabInstance:
     - target: {fileID: 9096450343968814751, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450344879979903, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9096450345455888130, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f78d30a7be6804144948eb20937b3b59, type: 3}
