@@ -32,11 +32,6 @@ public class PlayerBehavior : MonoBehaviour
           vInput = Input.GetAxis("Vertical") * moveSpeed;
           hInput = Input.GetAxis("Horizontal") * rotateSpeed;
 
-          if(IsGrounded() && Input.GetKeyDown(KeyCode.Space))
-          {
-               _rb.AddForce(Vector3.up * jumpVelocity, ForceMode.Impulse);
-          }
-
           /* 4
           this.transform.Translate(Vector3.forward * vInput * 
           Time.deltaTime);
@@ -52,9 +47,14 @@ public class PlayerBehavior : MonoBehaviour
           _rb.MovePosition(this.transform.position + this.transform.forward * vInput * Time.fixedDeltaTime);
           _rb.MoveRotation(_rb.rotation * angleRot);
 
+          if(IsGrounded() && Input.GetKeyDown(KeyCode.Space))
+          {
+               _rb.AddForce(Vector3.up * jumpVelocity, ForceMode.Impulse);
+          }
+
           if (Input.GetMouseButtonDown(0))
          {
-             GameObject newBullet = Instantiate(bullet, this.transform.position, this.transform.rotation) as GameObject;
+             GameObject newBullet = Instantiate(bullet, this.transform.position + new Vector3(1, 0, 0), this.transform.rotation) as GameObject;
              Rigidbody bulletRB = newBullet.GetComponent<Rigidbody>();
 
              bulletRB.velocity = this.transform.forward * bulletSpeed;
