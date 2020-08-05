@@ -18,7 +18,7 @@ using UnityEngine;
              Debug.Log("Item collected!");
 
              gameManager.Items += 1;
-             gameManager.PrintItemReport();
+             gameManager.PrintLootReport();
          }
      }
  }

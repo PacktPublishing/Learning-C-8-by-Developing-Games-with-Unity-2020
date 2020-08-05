@@ -105,7 +105,7 @@ public class GameBehavior : MonoBehaviour, IManager
         }
     }
 
-    public void PrintItemReport()
+    public void PrintLootReport()
     {
         var currentItem = lootStack.Pop();
         var nextItem = lootStack.Peek();
