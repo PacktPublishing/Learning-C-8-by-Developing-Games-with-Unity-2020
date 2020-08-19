@@ -43,7 +43,9 @@ With the following software and hardware list you can run all code files present
 | 1 to 13  | Unity 2020.1.0f1                    | Windows and Mac OS X               |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800207806_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. 
+
+[Click here to download it](https://static.packt-cdn.com/downloads/9781800207806_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
 * Hands-On Unity 2020 Game Development [[Packt]](https://www.packtpub.com/product/hands-on-unity-2020-game-development/9781838642006?utm_source=github&utm_medium=repository&utm_campaign=9781838642006) [[Amazon]](https://www.amazon.com/dp/1838642005)
