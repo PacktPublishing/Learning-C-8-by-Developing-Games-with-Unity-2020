@@ -1,8 +1,8 @@
 # Learning C# by Developing Games with Unity 2020
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Learning C# by Developing Games with Unity 2020" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/learning-c-by-developing-games-with-unity-2020-fifth-edition/9781800207806"><img src="https://static.packt-cdn.com/products/9781800207806/cover/smaller" alt="Learning C# by Developing Games with Unity 2020" height="256px" align="right"></a>
 
-This is the code repository for [Learning C# by Developing Games with Unity 2020](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Learning C# by Developing Games with Unity 2020](https://www.packtpub.com/product/learning-c-by-developing-games-with-unity-2020-fifth-edition/9781800207806), published by Packt.
 
 **An enjoyable and intuitive approach to getting started with C# programming and Unity**
 
