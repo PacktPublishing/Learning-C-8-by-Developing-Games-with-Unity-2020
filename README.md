@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B15965?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Learning C# by Developing Games with Unity 2020
 
 <a href="https://www.packtpub.com/product/learning-c-by-developing-games-with-unity-2020-fifth-edition/9781800207806"><img src="https://static.packt-cdn.com/products/9781800207806/cover/smaller" alt="Learning C# by Developing Games with Unity 2020" height="256px" align="right"></a>
